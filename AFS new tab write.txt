@@ -1,0 +1,39 @@
+[{ "information": "
+AFS New Tab Write global data
+
+Before starting, in Chrome > three dot menu > more tools > extensions > Automa Details >
+Automa = on
+Site Access = on all sites
+Allow in incognito = on
+Allow access to file urls = on
+
+the path of the file is C:/ in this example, change it to where ever you put testpage.htm
+
+This one has 4 steps
+
+Trigger, manual
+
+New Tab
+Description = AFS
+URL = file:///C:/testpage.htm
+uncheck Update previously opened tab
+check Set as active tab
+uncheck Add tab to group
+
+Click Element
+Description = First input box
+Element selector = #\31
+uncheck multiple
+uncheck mark element
+
+Forms
+Description=type one in the input box
+Element selector = #\31
+uncheck multiple
+uncheck mark element
+text field
+value = one
+check clear form value
+Typing delay = 0
+
+" }]
