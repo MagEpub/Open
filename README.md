@@ -12,8 +12,11 @@ c) The element selectors are always the same, making learning easier.
 e) The script opens the page and writes the word "one" in the input box
 
 There are three files
+
 AFS New Tab Write.json = the script.  Import it into Automa
+
 AFS New Tab Write.txt = all the settings for the blocks
+
 testpage.htm = the page to practice on.
 
 I plan to publish the actual sequence of steps soon.
