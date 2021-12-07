@@ -16,38 +16,6 @@ AFS New Tab Write.json = the script.  Import it into Automa
 AFS New Tab Write.txt = all the settings for the blocks
 testpage.htm = the page to practice on.
 
-If you want to write your own here is the whole thing:
-
-
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Automa File System v0.001</h1>
-
-<form action="/action_page.php">
-
-<label for="1">For this box, use element selector #\31</label>	
-  <input type="text" id="1" name="1"><br><br>
-
-<label for="2">For this box, use element selector #\32</label>	
-  <input type="text" id="2" name="2"><br><br>
-
-<label for="3">For this box, use element selector #\33</label>	
-  <input type="text" id="3" name="3"><br><br>
-
-<label for="4">For this box, use element selector #\34</label>	
-  <input type="text" id="4" name="4"><br><br>
-
-<label for="5">For this box, use element selector #\35</label>	
-  <input type="text" id="5" name="5"><br><br>
-
-</form>
-
-<!--https://github.com/MagEpub 6 Dec 2021-->
-
-</body>
-</html>    
-
 I plan to publish the actual sequence of steps soon.
 
 Thank you to https://github.com/Kholid060 who created Automa
