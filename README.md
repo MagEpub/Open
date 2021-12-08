@@ -13,9 +13,9 @@ e) The script opens the page and writes the word "one" in the input box
 
 There are three files
 
-AFS New Tab Write.json = the script.  Import it into Automa
+AFS New Tab Write.json = the script.  Import it into Automa (scripts are called workflows)
 
-AFS New Tab Write.txt = all the settings for the blocks
+AFS New Tab Write.txt = all the settings for the blocks.  For now I'm storing this in a global variable in the workflow
 
 testpage.htm = the page to practice on.
 
