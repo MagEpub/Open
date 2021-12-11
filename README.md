@@ -42,3 +42,10 @@ allow access to file urls = on (that's important if you want to try out testpage
 <b>Let's begin.</b>  Here is the procedure for the simplest workflow you can create:
 
 (comming soon)
+
+1.  Click on Automa
+
+![a1](https://github.com/MagEpub/Non-Public/blob/main/a1.png?raw=true)
+
+2.  
+
