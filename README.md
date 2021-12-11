@@ -3,6 +3,8 @@
 3) This is some beginner level documentation for the Automa Chrome Plugin, which I discovered about a week ago and may be just the thing for an RPA (robotic process automation) project I'm working on.
 4) I wasn't having much luck with how the variables and data is stored (I don't know javascript or .json), but I realized I could store the information on the web page, and it would be a great tool for beginners.
 
+<b> If you are brand new to Automa scroll down to "Let's begin"</b>
+
 Before starting:  Install Automa from the Chrome web store, and make sure file access is enabled
 
 How it works
@@ -37,4 +39,4 @@ allow access to file urls = on (that's important if you want to try out testpage
 <!-- ![abc](https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20settings.png?raw=true) -->
 ![abc](https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20settings.png?raw=true)
 
-Let's begin.  Here is the procedure for the simplest workflow you can create:
+<b>Let's begin.</b>  Here is the procedure for the simplest workflow you can create:
