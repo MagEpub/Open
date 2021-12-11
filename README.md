@@ -22,8 +22,11 @@ testpage.htm = the page to practice on.
 I plan to publish the actual sequence of steps soon.
 
 Thank you to https://github.com/Kholid060 who created Automa
-<---filenames are case sensitive--->
-![d1klkjlj](https://github.com/MagEpub/Non-Public/blob/main/d1.PNG?raw=true)
+<---filenames are case sensitive and can't be commented out--->
 
-<---  ![abc](https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20settings.png?raw=true)  --->
-https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20settings.png
+Once Automa is installed, go into chromes extensions manager.  My settings are 
+site access = on all sites
+allow in cognito = on
+allow access to file urls = on (that's important if you want to try out testpage.htm)
+![abc](https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20settings.png?raw=true)
+
