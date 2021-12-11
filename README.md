@@ -47,5 +47,15 @@ allow access to file urls = on (that's important if you want to try out testpage
 
 ![a1](https://github.com/MagEpub/Non-Public/blob/main/a1.png?raw=true)
 
-2.  
+2.  Click on Dashboard
 
+![a2](https://github.com/MagEpub/Non-Public/blob/main/a2.png?raw=true)
+<!--  ![a2](?raw=true)  -->
+
+3.  Click on workflows
+
+ ![a2](https://github.com/MagEpub/Non-Public/blob/main/a3.png?raw=true)
+ 
+4.  Click New Workflow
+
+ ![a2](https://github.com/MagEpub/Non-Public/blob/main/a4.png?raw=true)
