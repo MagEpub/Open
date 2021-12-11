@@ -25,4 +25,4 @@ Thank you to https://github.com/Kholid060 who created Automa
 <---filenames are case sensitive--->
 ![d1klkjlj](https://github.com/MagEpub/Non-Public/blob/main/d1.PNG?raw=true)
 
-<---![abc](https://github.com/MagEpub/Non-Public/blob/main/d1.PNG?raw=true)--->
+<---  ![abc](https://github.com/MagEpub/Non-Public/blob/main/d1.PNG?raw=true)  --->
