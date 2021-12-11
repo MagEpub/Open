@@ -25,5 +25,6 @@ Thank you to https://github.com/Kholid060 who created Automa
 
 <--![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)-->
 (https://github.com/MagEpub/Non-Public/blob/main/d1.png)
-![Chrome extension settings for Automa](https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20settings%20.png?raw=true)
+![d1klkjlj](https://github.com/MagEpub/Non-Public/blob/main/d1.PNG?raw=true)
 (https://github.com/MagEpub/Non-Public/blob/main/automa chrome settings.png?raw=true)
+https://github.com/MagEpub/Non-Public/blob/main/d1.PNG
