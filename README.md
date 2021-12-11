@@ -23,6 +23,6 @@ I plan to publish the actual sequence of steps soon.
 
 Thank you to https://github.com/Kholid060 who created Automa
 
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 https://github.com/MagEpub/Non-Public/blob/main/automata%20chrome%20extensions%20menu.png
-![alt text](https://github.com/MagEpub/Non-Public/blob/main/automa chrome extensions?raw=true)
+![alt text](https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20extensions%20.png?raw=true)
