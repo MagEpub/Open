@@ -54,8 +54,24 @@ allow access to file urls = on (that's important if you want to try out testpage
 
 3.  Click on workflows
 
- ![a2](https://github.com/MagEpub/Non-Public/blob/main/a3.png?raw=true)
+ ![a3](https://github.com/MagEpub/Non-Public/blob/main/a3.png?raw=true)
  
 4.  Click New Workflow
 
- ![a2](https://github.com/MagEpub/Non-Public/blob/main/a4.png?raw=true)
+ ![a4](https://github.com/MagEpub/Non-Public/blob/main/a4.png?raw=true)
+ 
+5.  Name your workflow Bing and click Add
+
+ ![a5](https://github.com/MagEpub/Non-Public/blob/main/a5.png?raw=true)
+ 
+6.  Click on your new workflow right where it says Bing
+   
+![a6](https://github.com/MagEpub/Non-Public/blob/main/a6.png?raw=true)
+
+7.  Click and hold on New Tab, and drag it up near Trigger
+
+ ![a7](https://github.com/MagEpub/Non-Public/blob/main/a7.png?raw=true)
+ 
+8.  Click and hold on the white circle on Trigger and drag a connectrion to the black circle on New Tab
+
+ ![a8](https://github.com/MagEpub/Non-Public/blob/main/a8.png?raw=true)
