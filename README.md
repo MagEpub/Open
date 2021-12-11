@@ -25,4 +25,4 @@ Thank you to https://github.com/Kholid060 who created Automa
 
 
 https://github.com/MagEpub/Non-Public/blob/main/automata%20chrome%20extensions%20menu.png
-![alt text](https://github.com/MagEpub/Non-Public/blob/main/automa chrom extensions?raw=true)
+![alt text](https://github.com/MagEpub/Non-Public/blob/main/automa chrome extensions?raw=true)
