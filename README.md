@@ -75,3 +75,25 @@ allow access to file urls = on (that's important if you want to try out testpage
 8.  Click and hold on the white circle on Trigger and drag a connectrion to the black circle on New Tab
 
  ![a8](https://github.com/MagEpub/Non-Public/blob/main/a8.png?raw=true)
+ 
+9. Hover the mouse over New Tab to get the dropdown menu with the edit pencil and the trash can.  Click on the edit pencil.
+
+ ![a9](https://github.com/MagEpub/Non-Public/blob/main/a9.png?raw=true)
+ 
+10.  Type http://bing.com where it says http://example.com
+
+ ![a10](https://github.com/MagEpub/Non-Public/blob/main/a10.png?raw=true)
+ 
+11.  Click Save
+
+ ![a11](https://github.com/MagEpub/Non-Public/blob/main/a11.png?raw=true)
+ 
+You have finished writing your first workflow.  Now let's test it.
+
+12.  Click on Execute
+
+ ![a12](https://github.com/MagEpub/Non-Public/blob/main/a12.png?raw=true)
+ 
+A new tab will open and go to bing.  Now let's check on how our workflow ran.  Click on the Automa icon in the new tab, then on the workflow name right where it says Bing
+
+ ![a13](https://github.com/MagEpub/Non-Public/blob/main/a13.png?raw=true)
