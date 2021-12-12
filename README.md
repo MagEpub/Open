@@ -94,6 +94,20 @@ You have finished writing your first workflow.  Now let's test it.
 
  ![a12](https://github.com/MagEpub/Non-Public/blob/main/a12.png?raw=true)
  
-A new tab will open and go to bing.  Now let's check on how our workflow ran.  Click on the Automa icon in the new tab, then on the workflow name right where it says Bing
+A new tab will open and go to bing.  Now let's check on how our workflow ran.  
+
+13.  Click on the Automa icon in the new tab, then on the workflow name right where it says bing
 
  ![a13](https://github.com/MagEpub/Non-Public/blob/main/a13.png?raw=true)
+ 
+14.  Click on Logs
+
+ ![a14](https://github.com/MagEpub/Non-Public/blob/main/a14.png?raw=true)
+ 
+15.  Click on the word bing for he newest one
+
+ ![a15](https://github.com/MagEpub/Non-Public/blob/main/a15.png?raw=true)
+ 
+16.  You'll see trigger and new tab ran.  The brown box with [] in it is for any data you created, but you didn't create any.  This is the end of the procedure for the simplest workflow you can create.
+
+ ![a16](https://github.com/MagEpub/Non-Public/blob/main/a16.png?raw=true)
