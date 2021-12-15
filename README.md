@@ -36,6 +36,9 @@ site access = on all sites
 allow in cognito = on
 
 allow access to file urls = on (that's important if you want to try out testpage.htm)
+
+I notice no matter how often I set it to all sites it keeps getting changed back to on click, ymmv
+
 <!-- ![abc](https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20settings.png?raw=true) -->
 ![abc](https://github.com/MagEpub/Non-Public/blob/main/automa%20chrome%20settings.png?raw=true)
 
