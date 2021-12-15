@@ -4,3 +4,5 @@
 4) I wasn't having much luck with how the variables and data is stored (I don't know javascript or .json), but I realized I could store the information on the web page, and it would be a great tool for beginners.
 
 <b> If you are brand new to Automa scroll down to Start at the main branch, this is Lesson Two</b>
+
+(12/14/21) I just managed to delete most of this page, they say you can find it if you look through the changes
